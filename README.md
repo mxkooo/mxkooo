@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mxkooo
+- 👋 Hi, I’m @mxkooo aka Mikołaj.
 - 👀 I’m interested in coding, cars.
 - 🌱 I’m currently learning on javascript.
 - 💞️ I’m looking to collaborate on ...
