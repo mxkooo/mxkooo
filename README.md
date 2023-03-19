@@ -1,5 +1,5 @@
 ![MasterHead](https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif)
-![MasterHead](https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif)
+![MasterHead](https://i.gifer.com/3EqX.gif)
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">An ambitious Java student from PL.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
