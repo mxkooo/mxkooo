@@ -1,4 +1,4 @@
-![MasterHead height="200" width="500"](https://i.pinimg.com/originals/2b/20/bc/2b20bcb71f5c97b7ed2ab3c17f6c161b.gif)
+![MasterHead](https://i.pinimg.com/originals/2b/20/bc/2b20bcb71f5c97b7ed2ab3c17f6c161b.gif)
 <h1 align="center">Hi 👋, I'm Mikołaj</h1>
 <h3 align="center">An ambitious Java student from PL.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
