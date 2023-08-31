@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **currently nothing :)**
 
-- 📫 How to reach me **discord: mxko#5415**
+- 📫 How to reach me **discord: mxko5415**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
