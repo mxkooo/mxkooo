@@ -24,6 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxkooo)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxkooo&show_icons=true&theme=merko)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mxkooo)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxkooo&" alt="mxkooo" /></p>
