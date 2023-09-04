@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxkooo&show_icons=true&locale=en&layout=compact" alt="mxkooo" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxkooo&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxkooo&show_icons=true&theme=tokyonight)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxkooo&" alt="mxkooo" /></p>
