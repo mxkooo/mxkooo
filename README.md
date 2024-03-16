@@ -3,8 +3,6 @@
 <h3 align="center">An ambitious Java student from PL.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxkooo&label=Profile%20views&color=0e75b6&style=flat" alt="mxkooo" /> </p>
-
 - 🔭 I’m currently working on **learning myself :)**
 
 - 🌱 I’m currently learning **Java, Java frameworks etc.**
